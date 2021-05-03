@@ -1,2 +1,5 @@
 # hello-world
-Just some intro
+Just a simple intro
+
+Hi guys!
+Aloisarrant here! I like to try sth new.
